@@ -11,10 +11,10 @@ font_awesome: 'XXXXXXXXXX.js'
 author:
   name: 'Michael Lawrence Lavelle'
   email: 
-#  twitter_username: 
+  twitter_username: mlavelle2025
 #  facebook_username:
   github_username: michaellawrencelavelle 
-  linkedin_username:  
+  linkedin_username: mlavelle2025
 
 # Build settings
 destination: _site
