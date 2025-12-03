@@ -2,8 +2,6 @@
 
 A Jekyll Theme, based on the Uno-Theme with a list of projects as Timeline.
 
-
-
 ## How does is look
 [Demo](http://thomas.zuehlke.family/)
 ![Screenshot](screenshot-overview.png)
