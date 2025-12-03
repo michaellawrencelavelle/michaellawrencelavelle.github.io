@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Psychopathic Strategies
+title: Psychopathic Strategies - Previous post
 ---
 
-### 10 Strategies Used By Psychopaths
+### '10 Strategies Used By Psychopaths' has now been updated:
 
-<p>Below is a link to a repository concerning strategies used by psychopaths to further their aims of destruction, annihilation and targeting</p>
-<p><a href="https://github.com/michaellavelle2025/psychopathic-strategies">Psychopathic Strategies Github Repository</a></p>
+<p>Please see <a href="https://michaellawrencelavelle.github.io/2025/12/03/15-Strategies-Used-By-Psychopaths.html">15 Strategies Used By Psychopaths</a> for the updated version</p>
