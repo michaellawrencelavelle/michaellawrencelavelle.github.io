@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opinion: This Madonna interview could be a DeepFake.
+title: Opinion - This Madonna interview could be a DeepFake.
 ---
 
 ### "MADONNA EXCLUSIVE: The Side That NOBODY Knows…"
