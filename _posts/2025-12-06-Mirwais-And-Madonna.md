@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Mirwais and Madonna
