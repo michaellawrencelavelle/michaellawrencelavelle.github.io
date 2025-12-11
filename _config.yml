@@ -1,7 +1,7 @@
 # Site settings
 title: Michael Lavelle
 description: 'Business Card Page'
-url: 'https://michaellavelle.github.io'
+url: 'https://michaellawrencelavelle.github.io'
 baseurl: ''
 profilepic: '/images/michaellavelle.jpg'
 bkimage: '/images/bk1.jpg'
@@ -9,11 +9,11 @@ google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Michael Lavelle'
+  name: 'Michael Lawrence Lavelle'
   email: 
 #  twitter_username: 
 #  facebook_username:
-  github_username: michaellavelle 
+  github_username: michaellawrencelavelle 
   linkedin_username:  
 
 # Build settings
