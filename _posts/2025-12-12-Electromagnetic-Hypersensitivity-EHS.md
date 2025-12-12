@@ -5,7 +5,6 @@ title: Electromagnetic Hypersensitivity (EHS)
 
 ### What is EHS?
 
-<p>&nbsp;</p>
 <p>
 "As societies industrialize and the technological revolution continues, there has been an unprecedented increase in the number and diversity of electromagnetic field (EMF) sources. These sources include video display units (VDUs) associated with computers, mobile phones and their base stations. While these devices have made our life richer, safer and easier, they have been accompanied by concerns about possible health risks due to their EMF emissions.</p>
 <p>For some time a number of individuals have reported a variety of health problems that they relate to exposure to EMF. While some individuals report mild symptoms and react by avoiding the fields as best they can, others are so severely affected that they cease work and change their entire lifestyle. This reputed sensitivity to EMF has been generally termed “electromagnetic hypersensitivity” or EHS.</p>
