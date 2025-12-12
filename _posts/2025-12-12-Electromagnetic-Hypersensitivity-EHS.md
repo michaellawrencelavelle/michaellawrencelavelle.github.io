@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Electromagnetic Hypersensitivity (EHS)
+title: 003 - Electromagnetic Hypersensitivity (EHS)
 ---
 
 ### What is EHS?
