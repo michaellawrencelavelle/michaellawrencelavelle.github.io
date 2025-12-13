@@ -9,3 +9,7 @@ title: 009 - Healthtech, Vaccines and Medicine
 <p><a href="https://youtube.com/watch?v=R6YgJd2DVhc">Tim Spector (KCL & ZOE): London.AI #19 ( April 2020) </a></p>
 <p><a href="https://youtube.com/watch?v=mc5nU5WVMDk">UK to test contact tracing app on Isle of Wight - Coronavirus Daily Update (May 2020)</a></p>
 <p><a href="https://youtube.com/watch?v=-6ACLLO-5ZM">UK contact-tracing phone app against coronavirus to miss deadline - Al Jazeera English (May 2020)</a></p>
+
+### Epidemiology, Informatics and HIV
+
+<p><a href="http://youtube.com/watch?v=JTLtP24-xGw">Anne Johnson - UCL Institute of Epidemiology and Health Care</a></p>
